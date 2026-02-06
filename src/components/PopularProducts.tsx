@@ -31,7 +31,7 @@ const products: Product[] = [
     {
         id: 3,
         name: "Google Pixel 8 Pro",
-        image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=400&fit=crop",
+        image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=300&h=300&fit=crop",
         price: "$999",
         originalPrice: "$1,099",
         features: ["Magic Eraser", "Night Sight", "Pure Android", "7 Years Updates"],

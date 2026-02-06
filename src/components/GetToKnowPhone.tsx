@@ -133,7 +133,7 @@ const phones: Phone[] = [
     {
         id: 3,
         name: "Google Pixel 8 Pro",
-        image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=600&h=600&fit=crop",
+        image:"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=300&h=300&fit=crop",
         colors: [
             { name: "Obsidian", value: "#1F2937", image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=400&fit=crop" },
             { name: "Porcelain", value: "#F8FAFC", image: "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=400&h=400&fit=crop" },
